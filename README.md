@@ -13,7 +13,7 @@
     - The mica will return if you double-pressed the same key on your keyboard again!
   - 🌐 Example.com is a domain that anyone can use in their projects!
     ![Example.com](https://github.com/zsr-lukezhang/zsr-lukezhang/blob/main/Images/example.com.png?raw=true)
-## My GitHub status
+## My GitHub stats
 |<img src="https://github-readme-streak-stats.herokuapp.com?user=zsr-lukezhang&theme=vue&locale=en-US&date_format=%5BY.%5Dn.j&hide_border=true" alt="GitHub Streak" width="500"/>|
 |---|
 |<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zsr-lukezhang&amp;theme=vue&amp;show_icons=true&hide_border=true" width="500"/>|
