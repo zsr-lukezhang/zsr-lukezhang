@@ -1,6 +1,7 @@
 # Hi, welcome to my page!
 ## My public information
 - 👋 Hi, I’m @zsr-lukezhang.
+- 🤓 I'm also @win-lukezhang.
 - 👀 I’m interested in WinUI dev.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on some WinUI projects.
